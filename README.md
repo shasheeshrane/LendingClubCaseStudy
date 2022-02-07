@@ -1,14 +1,9 @@
 # LendingClubCaseStudy
-This is being submitted as an assignment -by Team Mates Sanghamitra Dey and Shasheesh Rane
-
-#Introduction:
-
+This is being submitted as an assignment in Module 1 - Study Group - by Team Mates Sanghamitra Dey and Shasheesh Rane
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This Assignment is for a Lending case study to be performed. Similar to a real world business problems, here is a Step by Step Process followed to Analyse the Data and reach to a percievable conclusion. Method used will be through EDA - EXPLORATORY DATA ANALYSIS
 
