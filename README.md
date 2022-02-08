@@ -23,7 +23,10 @@ Based on the Data Analysis , Also we intend to have a deeper understanding of Ri
 
 For Analysis we have used the Python libraries like matplotlib, plt, seaborn, numpy.
 
-For Files Hosting we have used AWS.
+For RAW feed Files Hosting we have used AWS S3 URLs as below:
+We Uploaded the File loan.csv to https://s3.ap-south-1.amazonaws.com/myawscloud.uk/loan.csv
+We Uploaded the File Data_Dictionary.xlsx to https://s3.ap-sougth-1.amazonaws.com/myawscloud.uk/Data_Dictionary.xlsx 
+These Files are uploaded in AWS S3 directories in Online AWS Storage Account of Shasheesh Rane
 
 For Coding we have used Jupyter notebook and the Google Collab online
 
