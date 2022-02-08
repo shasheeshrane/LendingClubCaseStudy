@@ -50,4 +50,7 @@ This Assignment helped us develop skills in Data Analytics, and furthermore , up
 more insights and techniques, tools and observations to progress towards Machine Learning and AI Skills
 
 
+## Contact
+Created by [@githubusername] - feel free to contact me!
+
 <p align="right">(<a href="#top">back to top</a>)</p>
