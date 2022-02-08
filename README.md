@@ -58,6 +58,6 @@ more insights and techniques, tools and observations to progress towards Machine
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@shasheeshrane] - feel free to contact me! [shasheesh.rane@gmail.com]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
