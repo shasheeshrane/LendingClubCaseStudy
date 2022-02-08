@@ -46,13 +46,13 @@ A walkthorugh was useful, to give us an idea how to go about the Analysis.
 
 ## Conclusions:
 
-As for the Assignment is concerned we got below Conclusions:
+#### As for the Assignment is concerned we got below Conclusions:
       a. LendingClub should try giving long term loans , lower amount at lower interest rate, to parties who can pay off or have higher reliability based on certain demographic.
 Home Owners, Education seekers can will avail of this loan, attractive rates of interest can be given to increase business around > 10000 to 12000 USD.
       b. Higher interest rate should be given to segments who can afford to pay on time , like Home Owners, Grade-A,B,C, Work experience 7,8,9 years
       c. Education, Vacation and renewable energy are lower risk purposed where the LendingClub can actually provide attractive Schemes and good Payment EMIs to attract more customers
       d. LendingClub need to be careful ,Grade D Applicants, they have moderately average Charged-Off count.Same goes for West Zone Applicants region wise.
-       e. US ARMY , Bank of America , IBM, AT & T are in the TOP 4# BUSINESS DRIVER : Loans can be marketed easily to the TOP 10 companies
+      e. US ARMY , Bank of America , IBM, AT & T are in the TOP 4# BUSINESS DRIVER : Loans can be marketed easily to the TOP 10 companies
 
 This Assignment helped us develop skills in Data Analytics, and furthermore , upcoming assignments and industry related cases studies will help us gain
 more insights and techniques, tools and observations to progress towards Machine Learning and AI Skills
