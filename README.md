@@ -21,8 +21,10 @@ Based on the Data Analysis , Also we intend to have a deeper understanding of Ri
 
 ## Technologies used:
 
-For Analysis we have used the Python libraries like matplotlib, plt, seaborn, numpy
-For Files Hosting we have used AWS
+For Analysis we have used the Python libraries like matplotlib, plt, seaborn, numpy.
+
+For Files Hosting we have used AWS.
+
 For Coding we have used Jupyter notebook and the Google Collab online
 
 
