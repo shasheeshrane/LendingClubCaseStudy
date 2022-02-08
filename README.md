@@ -26,8 +26,7 @@ Based on the Data Analysis , Also we intend to have a deeper understanding of Ri
 
 For Analysis we have used the Python libraries like matplotlib, plt, seaborn, numpy.
 
-###For RAW feed Files Hosting we have used AWS S3 URLs as below:
-
+###For Dataset feed Files Hosting we have used AWS S3 URLs as below:
       We Uploaded the File loan.csv to https://s3.ap-south-1.amazonaws.com/myawscloud.uk/loan.csv
       We Uploaded the File Data_Dictionary.xlsx to https://s3.ap-sougth-1.amazonaws.com/myawscloud.uk/Data_Dictionary.xlsx
 
@@ -35,7 +34,7 @@ These Files are uploaded in AWS S3 directories in Online AWS Storage Account of 
 
 For Coding we have used Jupyter notebook and the Google Collab online
 
-#### FILES UPLOADED:
+#### ASSIGNMENT FILES UPLOADED:
       a. Shasheesh_Rane.ipynb ---------- this contains the Analysis Steps and code written in Python Jupyter notebook.
       b. Lending_club_case_study.pdf---- this contains the Presentation and insights for the LendingClubCaseStudy.
 
