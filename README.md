@@ -1,8 +1,8 @@
 # LendingClubCaseStudy
 This is being submitted as an assignment in Module 1 - Study Group
-      Team Member :Sanghamitra Dey 
-Group Facilitator :Shasheesh Rane
-            Batch :ML-C36 
+      ##Team Member :Sanghamitra Dey 
+##Group Facilitator :Shasheesh Rane
+            ##Batch :ML-C36 
 
 
 ## Table of Contents
