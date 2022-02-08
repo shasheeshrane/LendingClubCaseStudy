@@ -33,6 +33,10 @@ These Files are uploaded in AWS S3 directories in Online AWS Storage Account of 
 
 For Coding we have used Jupyter notebook and the Google Collab online
 
+#### FILES UPLOADED:
+      a. Shasheesh_Rane.ipynb ---------- this contains the Analysis Steps and code written in Python Jupyter notebook.
+      b. Lending_club_case_study.pdf---- this contains the Presentation and insights for the LendingClubCaseStudy.
+
 
 ## Acknowledgements:
 
