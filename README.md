@@ -5,6 +5,12 @@ Group Facilitator :Shasheesh Rane
             Batch :ML-C36 
 
 
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -13,10 +19,9 @@ This Assignment is for a Lending case study to be performed. Similar to a real w
 Based on the Data Analysis , Also we intend to have a deeper understanding of Risk Analysis when lending Money to different customers
 
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+
+
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
