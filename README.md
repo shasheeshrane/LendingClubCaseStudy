@@ -12,21 +12,28 @@ Group Facilitator :Shasheesh Rane
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
-## General Info
+## General Info:
 
 This Assignment is for a Lending case study to be performed. Similar to a real world business problems, here is a Step by Step Process followed to Analyse the Data and reach to a percievable conclusion. Method used will be through EDA - EXPLORATORY DATA ANALYSIS
 
 Based on the Data Analysis , Also we intend to have a deeper understanding of Risk Analysis when lending Money to different customers
 
 
-## Technologies used
+## Technologies used:
 
 This Assignment is for a Lending case study to be performed. Similar to a real world business problems, here is a Step by Step Process followed to Analyse the Data and reach to a percievable conclusion. Method used will be through EDA - EXPLORATORY DATA ANALYSIS
 
 Based on the Data Analysis , Also we intend to have a deeper understanding of Risk Analysis when lending Money to different customers
 
 
-## Acknowledgements
+## Acknowledgements:
+
+This Assignment is for a Lending case study to be performed. Similar to a real world business problems, here is a Step by Step Process followed to Analyse the Data and reach to a percievable conclusion. Method used will be through EDA - EXPLORATORY DATA ANALYSIS
+
+Based on the Data Analysis , Also we intend to have a deeper understanding of Risk Analysis when lending Money to different customers
+
+
+## Conclusions:
 
 This Assignment is for a Lending case study to be performed. Similar to a real world business problems, here is a Step by Step Process followed to Analyse the Data and reach to a percievable conclusion. Method used will be through EDA - EXPLORATORY DATA ANALYSIS
 
