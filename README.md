@@ -36,19 +36,14 @@ For Coding we have used Jupyter notebook and the Google Collab online
 
 ## Acknowledgements:
 
-This Assignment is for a Lending case study to be performed. Similar to a real world business problems, here is a Step by Step Process followed to Analyse the Data and reach to a percievable conclusion. Method used will be through EDA - EXPLORATORY DATA ANALYSIS
-
-Based on the Data Analysis , Also we intend to have a deeper understanding of Risk Analysis when lending Money to different customers
+We are grateful to IIIT-B and Upgrad , and our teachers Aditya B, to help us gain understanding of the assignment on 6thFeb2022 session.
+A walkthorugh was useful, to give us an idea how to go about the Analysis.
 
 
 ## Conclusions:
 
-This Assignment is for a Lending case study to be performed. Similar to a real world business problems, here is a Step by Step Process followed to Analyse the Data and reach to a percievable conclusion. Method used will be through EDA - EXPLORATORY DATA ANALYSIS
-
-Based on the Data Analysis , Also we intend to have a deeper understanding of Risk Analysis when lending Money to different customers
-
-
-
+This Assignment helped us develop skills in Data Analytics, and furthermore , upcoming assignments and industry related cases studies will help us gain
+more insights and techniques, tools and observations to progress towards Machine Learning and AI Skills
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
