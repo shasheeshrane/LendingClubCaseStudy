@@ -3,7 +3,7 @@ This is being submitted as an assignment in Module 1 - Study Group
 
 ## STUDY GROUP DETAILS:
 
-      Team Member :Sanghamitra Dey 
+      Team Member : Shasheesh Rane
       Group Facilitator :Shasheesh Rane
       Batch :ML-C36 , Dec-2021
 
